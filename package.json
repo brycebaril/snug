@@ -1,0 +1,11 @@
+{
+  "name": "snug",
+  "version": "0.1.0",
+  "author": "Bryce Baril <bryce@ravenwall.com>",
+  "description": "Node.js -- beyond Hello World",
+  "dependencies": {
+    "axon": ">=0.5.x",
+    "redis": ">=0.8.x",
+    "fixed-array": ">=0.1.x"
+  }
+}
